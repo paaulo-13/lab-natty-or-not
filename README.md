@@ -14,8 +14,6 @@ A partir dos conhecimentos adquiridos no curso sobre inteligencia artificial e m
 Instiguei a IA com informações bem relavantes e deixando o prompt rico, e o roteiro do jeito que eu pretendia. Após obter o roteiro procurei por uma inteligencia artificial que pudesse criar um audio dinamico e legal para as pessoas, e encontrei o eleven labs que me ajudou a transformar o roteiro em um audio INCRIVEL!
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Você pode ouvir o podcast clicando aqui
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+
